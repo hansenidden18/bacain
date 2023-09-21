@@ -11,8 +11,8 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
     }
+
 }
 
 rootProject.name = "bacain"
 include(":app")
- 

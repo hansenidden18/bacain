@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769319452172",
+    "project_id": "bacain-b4088",
+    "storage_bucket": "bacain-b4088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769319452172:android:6bbe26f31ee03e8cc4b829",
+        "android_client_info": {
+          "package_name": "com.example.bacain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-QyKYVDYRcRf2f9y5JfVhbrUrPFZOag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
