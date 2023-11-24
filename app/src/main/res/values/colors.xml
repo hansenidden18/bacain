@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Primary">#FFC107</color>
+    <color name="PrimaryDark">#FF5722</color>
+    <color name="Accent">#03DAC5</color>
+    <color name="gradientStart">#8A8A8A</color>
+    <color name="gradientEnd">#51FFFFFF</color>
+    <color name="celadon">#B9D8C2</color>
+    <color name="lightBlue">#9AC2C9</color>
 </resources>
